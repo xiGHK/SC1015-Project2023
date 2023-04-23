@@ -7,6 +7,7 @@ Our group has chosen to work on exploring and predicting telecom churn (which re
 ## Contributors
 
 B134 Team 5
+
 Lim Jun Rong, Ryan - Data Preparation and Exploratory Analysis
 
 Li Yaohao - Logistic Regression Model & Data Insights
