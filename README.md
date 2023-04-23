@@ -36,8 +36,7 @@ Plotted correlation of all factors against the predictor (Customer Status)
 ## Models Used
 
 1. Logistic Regression Model
-2. 
-3. Random Forest Model
+2. Random Forest Model
 
 ## Findings
 
